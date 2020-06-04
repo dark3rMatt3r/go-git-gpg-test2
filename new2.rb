@@ -1,1 +1,3 @@
 # comment
+def method
+end
